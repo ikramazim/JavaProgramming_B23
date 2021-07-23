@@ -1,4 +1,4 @@
-package day22_Recap;
+package day22_recap;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package day20_Loops;
+package day20_loops;
 
 public class CatsAndDogs {
 
